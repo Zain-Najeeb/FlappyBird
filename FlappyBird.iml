@@ -7,14 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/core.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="OnlineChess" level="project" />
+    <orderEntry type="library" name="untitled" level="project" />
+    <orderEntry type="library" name="Tetris" level="project" />
+    <orderEntry type="library" name="untitled1" level="project" />
+    <orderEntry type="library" name="FlappyBird" level="project" />
   </component>
 </module>

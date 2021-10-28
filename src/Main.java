@@ -55,7 +55,7 @@ import processing.core.PVector;
         NEAT.score(pipe);
     }
     public void keyPressed() {
-        
+
         if (key == ' ') {
             player.jump();
         }
